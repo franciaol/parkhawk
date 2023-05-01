@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import qs from "qs";
 import axios from "axios";
-import Map, { GeolocateControl, Marker } from "react-map-gl";
+import Map, {  Marker } from "react-map-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import TimeAgo from "timeago-react";
 

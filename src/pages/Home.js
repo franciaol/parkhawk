@@ -100,6 +100,7 @@ export default function Home() {
             <img
               src="https://i.pinimg.com/736x/71/dc/bc/71dcbcbb37583ee811221f67b09bf68b.jpg"
               style={{ width: "100%", height: "100%" }}
+              alt="views"
             ></img>
           </Link>
         </div>
